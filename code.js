@@ -11,5 +11,6 @@ function capitalize(str){
         }
     outStr += strObj[j]
     }
+    return outStr
 }
 capitalize("we should follow the programming expert")
